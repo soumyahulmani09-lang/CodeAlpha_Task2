@@ -1,0 +1,7 @@
+Stock Portfolio Summary
+-----------------------
+AAPL: 4 shares × $180 = $720
+GOOGL: 2 shares × $140 = $280
+AMZN: 5 shares × $130 = $650
+
+Total Investment Value: $1650
